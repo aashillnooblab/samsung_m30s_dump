@@ -1,0 +1,13 @@
+# m30sdd-user 10 QP1A.190711.020 M307FXXU3BTG1 release-keys
+- manufacturer: 
+- platform: universal9611
+- codename: m30s
+- flavor: m30sdd-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: M307FXXU3BTG1
+- tags: release-keys
+- fingerprint: samsung/m30sdd/m30s:10/QP1A.190711.020/M307FXXU3BTG1:user/release-keys
+- brand: samsung
+- branch: m30sdd-user-10-QP1A.190711.020-M307FXXU3BTG1-release-keys
+- repo: samsung_m30s_dump
